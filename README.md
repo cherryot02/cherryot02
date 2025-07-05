@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hello, I'm Cherry. 👋
 
-<!--
-**cherryot02/cherryot02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/cherry-ang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+Aspiring IT cybersecurity professional with hands-on experience gained from my recent IT internship and CompTIA A+ certification. <br>
+Graduating Information Systems Technology: Cybersecurity Major at Blue Ridge Community College this summer, and will be attending Old Dominion University in Fall 2025 for a BS in Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Objective
+
+Started a career in digital arts to advertising, shifted to IT for cybersecurity. <br>
+
+## Skills + Projects
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Malware Analysis                              | <a href="https://google.com">Detection Lab</a>|
+| Network Segmentation                          | <a href="https://google.com">Detection Lab</a>|
+| Scripting using Batch, PowerShell and Bash    | link |
+| SQL Injections                                | link |
+| Privilege Excalation                          | link |
+
+## Tools
+
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
