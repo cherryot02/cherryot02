@@ -26,10 +26,21 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 
 ## Tools
 
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tenable%20Nessus-00457C?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+</div>
+
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-Windows%20Batch-4B4B4B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+
 </div>
 
 ## Certifications
