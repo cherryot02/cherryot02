@@ -15,11 +15,11 @@ Started a career in digital arts to advertising, shifted to IT for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Analysis                              | <a href="https://google.com">Detection Lab</a>|
-| Network Segmentation                          | <a href="https://google.com">Detection Lab</a>|
-| Scripting using Batch, PowerShell and Bash    | link |
-| SQL Injections                                | link |
-| Privilege Excalation                          | link |
+| Malware Analysis                              | <a href="https://github.com/cherryot02/Studying-Malware">Documentation</a>|
+| Network Segmentation                          | <a href="https://github.com/cherryot02/Network-Segmentation">Documentation</a>|
+| Scripting using Batch, PowerShell and Bash    | <a href="https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash">Documentation</a> |
+| SQL Injections                                | <a href="https://github.com/cherryot02/SQL-Injections">Documentation</a> |
+| Privilege Excalation                          | <a href="">TBA</a> |
 
 ## Tools
 
