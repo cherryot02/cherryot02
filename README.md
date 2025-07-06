@@ -8,7 +8,8 @@ Graduating Information Systems Technology: Cybersecurity Major at Blue Ridge Com
 
 ## Objective
 
-Started a career in digital arts to advertising, shifted to IT for cybersecurity. <br>
+My journey began in graphic design, creating promotional posters and digital ads, until I became curious about how these same media, I or the others created, can make various online platforms to misuse and manipulate the mass. <br>
+This led me down the path of cybersecurity, where I am aiming to protect users from scams, fraud, and digital threats; rather than be the one contributing to the amount of online clutter in recent times. <br>
 
 ## Skills + Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
