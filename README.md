@@ -36,7 +36,3 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 <div>
 <img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
