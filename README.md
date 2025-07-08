@@ -40,7 +40,14 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
     <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+</div>
 
+### Web
+<div>
+<img src="https://img.shields.io/badge/-HTML5?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS-1572B6?&style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/-jQuery-0769AD?&style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/-bootstrap-7952B3?&style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
 
 ## Certifications
