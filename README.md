@@ -22,7 +22,7 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 | Vulnerability Scanning                        | <a href="https://github.com/cherryot02/Vulnerability-Scanning">Documentation</a>|
 | Malware Analysis                              | <a href="https://github.com/cherryot02/Studying-Malware">Documentation</a>|
 | SQL Injections                                | <a href="https://github.com/cherryot02/SQL-Injections">Documentation</a> |
-| Privilege Excalation                          | <a href="">TBA</a> |
+| Privilege Escalation                          | <a href="">TBA</a> |
 
 ## Tools
 
