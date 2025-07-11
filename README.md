@@ -20,7 +20,7 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 | Network Segmentation                          | <a href="https://github.com/cherryot02/Network-Segmentation">Documentation</a>|
 | Scripting using Batch, PowerShell and Bash    | <a href="https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash">Documentation</a> |
 | Vulnerability Scanning                        | <a href="https://github.com/cherryot02/Vulnerability-Scanning">Documentation</a>|
-| Malware Analysis                              | <a href="https://github.com/cherryot02/Studying-Malware">Documentation</a>|
+| Batch scripting                               | <a href="https://github.com/cherryot02/PowerOptions_Batch">Documentation</a>|
 | SQL Injections                                | <a href="https://github.com/cherryot02/SQL-Injections">Documentation</a> |
 | Privilege Escalation                          | <a href="">TBA</a> |
 
