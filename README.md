@@ -37,9 +37,6 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/-Windows%20Batch-4B4B4B?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ### Web
