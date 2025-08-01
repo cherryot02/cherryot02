@@ -2,10 +2,6 @@
 
 <a href="https://www.linkedin.com/in/cherry-ang/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Aspiring IT cybersecurity professional with hands-on experience gained from my recent IT internship and CompTIA A+ certification. <br>
-Graduating Information Systems Technology: Cybersecurity Major at Blue Ridge Community College this summer, and will be attending Old Dominion University in Fall 2025 for a BS in Cybersecurity.
-
-
 ## Objective
 
 My journey began in graphic design, creating promotional posters and digital ads, until I became curious about how these same media, <br>
@@ -28,10 +24,7 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tenable%20Nessus-00457C?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
 
 ### Scripting
