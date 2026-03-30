@@ -30,6 +30,7 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 ### Scripting
 <div>
     <img src="https://img.shields.io/badge/-Windows%20Batch-4B4B4B?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?&logo=python&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Web
