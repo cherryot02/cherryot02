@@ -13,18 +13,20 @@ This led me down the path of cybersecurity, where I am aiming to protect users f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Python Socket Programming                     | <a href="https://github.com/cherryot02/SocketProgramming_Final">Documentation</a> |
 | Network Segmentation                          | <a href="https://github.com/cherryot02/Network-Segmentation">Documentation</a>|
 | Scripting using Batch, PowerShell and Bash    | <a href="https://github.com/cherryot02/Scripting-with-Batch-PowerShell-Bash">Documentation</a> |
 | Vulnerability Scanning                        | <a href="https://github.com/cherryot02/Vulnerability-Scanning">Documentation</a>|
 | Batch scripting                               | <a href="https://github.com/cherryot02/PowerOptions_Batch">Documentation</a>|
 | SQL Injections                                | <a href="https://github.com/cherryot02/SQL-Injections">Documentation</a> |
-| Privilege Escalation                          | <a href="">TBA</a> |
+
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Packet%20Tracer-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-395DAB?&style=for-the-badge&logo=Wireshark&logoColor=white" />    
 </div>
 
 ### Scripting
